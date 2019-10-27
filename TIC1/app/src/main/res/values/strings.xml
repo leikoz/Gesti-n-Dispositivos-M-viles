@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TIC1</string>
+    <string name="App_Correo">Hotmail</string>
+    <string name="App_Correod">Aplicacion para mensajeri y correo instutucional</string>
+
+    <string name="App_Notas">NotePad</string>
+    <string name="App_Notasd">toma tus notas  y mantenlas en linea simple y donde quieras</string>
+
+</resources>
