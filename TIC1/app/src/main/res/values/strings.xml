@@ -1,9 +1,43 @@
 <resources>
     <string name="app_name">TIC1</string>
-    <string name="App_Correo">Hotmail</string>
-    <string name="App_Correod">Aplicacion para mensajeri y correo instutucional</string>
+    <string name="App_Correo">Outlook</string>
+    <string name="App_Correod">Servicio gratuito de correo electrónico proporcionado por Microsoft que combina las mejores funciones del correo electrónico tradicional</string>
+    <string name="App_Correoe">Instalar</string>
+    <string name="App_Correop">com.microsoft.office.outlook</string>
 
-    <string name="App_Notas">NotePad</string>
-    <string name="App_Notasd">toma tus notas  y mantenlas en linea simple y donde quieras</string>
+    <string name="App_Notas">Notas de Keep</string>
+    <string name="App_Notasd"> Apunta rápidamente todo lo que se te pase por la cabeza y recibe un recordatorio en el momento preciso o en el lugar adecuado.</string>
+    <string name="App_Notase">Instalar</string>
+    <string name="App_Notasp">com.google.android.keep</string>
+
+    <string name="App_caleendario">Google Keep</string>
+    <string name="App_calendariod">toma tus notas  y mantenlas en linea simple y donde quieras</string>
+    <string name="App_calendarioe">Instalar</string>
+
+    <string name="App_remota">TeamViewer</string>
+    <string name="App_remotad"> Software informático privado de fácil acceso, que permite conectarse remotamente a otros equipos.</string>
+    <string name="App_remotae">Instalar</string>
+    <string name="App_remotap">com.teamviewer.teamviewer.market.mobile</string>
+
+    <string name="App_texto">Word</string>
+    <string name="App_textod">Editor de texto ofimático , permite crear documentos sencillos o profesionales. </string>
+    <string name="App_textoe">Instalar</string>
+    <string name="App_textop">com.microsoft.office.word</string>
+
+    <string name="App_voz">Grabadora de voz</string>
+    <string name="App_vozd">Mejor grabadora para grabación de voz con alta calidad</string>
+    <string name="App_voze">Instalar</string>
+    <string name="App_vozp">vr.audio.voicerecorder</string>
+
+    <string name="App_mensaj">WhatsApp</string>
+    <string name="App_mensajd">Mensajeria instantanea ,gratuita,facil de acceder ,llamadas sin costo.</string>
+    <string name="App_mensaje">Instalar</string>
+    <string name="App_mensajp">com.whatsapp</string>
+
+    <string name="App_gps">Maps</string>
+    <string name="App_gpsd">Navega por el mundo de manera más fácil y rápida con Google Maps. Puedes ecnontrar tu dispositivo ,millones de empresas y lugares señalados</string>
+    <string name="App_gpse">Instalar</string>
+    <string name="App_gpsp">com.google.android.apps.maps</string>
+
 
 </resources>
